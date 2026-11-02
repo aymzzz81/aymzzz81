@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ayman Al Ali
 
-<!--
-**aymzzz81/aymzzz81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wirtschaftsinformatik-Student an der Technischen Hochschule Würzburg-Schweinfurt (THWS)**
 
-Here are some ideas to get you started:
+Ich verbinde mein Studium der Wirtschaftsinformatik mit eigenen Projekten. Dabei baue ich meine Grundlagen in Programmierung, Datenbanken, Automatisierung und Prozessmodellierung weiter aus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kenntnisse
+
+| Bereich | Aktueller Stand |
+| --- | --- |
+| Java | Grundlagen |
+| SQL | Grundlagen |
+| n8n | Grundlagen |
+| Prozessmodellierung | Grundlagen |
+
+## Eigene Projekte & KI-Werkzeuge
+
+Für eigene Projekte nutze ich ChatGPT/Codex und Claude als unterstützende Werkzeuge. Mein Ziel ist es, technische Zusammenhänge besser zu verstehen und meine Kenntnisse durch praktische Anwendung zu vertiefen.
+
+## Berufliche Perspektive
+
+Ich möchte meine Kenntnisse in der Praxis einsetzen und weiterentwickeln – besonders an der Schnittstelle von IT und Geschäftsprozessen. Dieses Profil dient als Einblick in meinen fachlichen Hintergrund und als Grundlage für mein wachsendes Projektportfolio.
